@@ -1,2 +1,5 @@
-# Snake-Game-
-Snake game in Python using Pygame module 
+# Snake-Game
+Snake game in Python using Pygame module
+Player have to control snake in such a way that it should eat apple and the snake should not touch boundaries of screen or itself...
+snake length and speed increase as it eats an apple...
+
